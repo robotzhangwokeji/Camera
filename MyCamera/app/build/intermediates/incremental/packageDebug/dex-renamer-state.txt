@@ -1,0 +1,7 @@
+#Fri Mar 16 11:26:29 CST 2018
+base.0=F\:\\GitHub\\Camera\\MyCamera\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_97f2ab30671a09e05e65499d8c7404412c1f6083
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\GitHub\\Camera\\MyCamera\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e16619c8a0b4f26e465e281ad36bec315229c730\\classes.dex
+base.1=F\:\\GitHub\\Camera\\MyCamera\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e16619c8a0b4f26e465e281ad36bec315229c730
+file.0=F\:\\GitHub\\Camera\\MyCamera\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_97f2ab30671a09e05e65499d8c7404412c1f6083\\classes.dex

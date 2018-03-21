@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="main_info">您卸载试试看？</string>
+    <string name="app_name">监听卸载</string>
+    <string name="uninstall_info">You will be uninstalled</string>
+
+</resources>

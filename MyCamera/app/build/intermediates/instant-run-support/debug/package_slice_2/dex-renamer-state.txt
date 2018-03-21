@@ -1,0 +1,4 @@
+#Fri Mar 16 11:24:45 CST 2018
+base.0=F\:\\GitHub\\Camera\\MyCamera\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=F\:\\GitHub\\Camera\\MyCamera\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

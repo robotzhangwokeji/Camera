@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\GitHub\\Camera\\MyCamera\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "F:\\GitHub\\Camera\\MyCamera\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\GitHub\\Camera\\MyCamera\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "F:\\GitHub\\Camera\\MyCamera\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]

@@ -201,7 +201,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             Size largest = Collections.max(Arrays.asList(streamConfigurationMap.getOutputSizes(ImageFormat.JPEG)),new CompareSizeByArea());
             //创建一个ImageReader对象，用于获取摄像头的图像数据
              imageReader = ImageReader.newInstance(largest.getWidth(), largest.getHeight(), ImageFormat.JPEG, 2);
-            imageReader.setOnImageAvailableListener(new ImageReader.OnImageAvailableListener() {
+             imageReader.setOnImageAvailableListener(new ImageReader.OnImageAvailableListener() {
                 //当照片数据可用时激发改方法
                 @Override
                 public void onImageAvailable(ImageReader reader) {
